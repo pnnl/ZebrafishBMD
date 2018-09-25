@@ -1,6 +1,6 @@
 <img src="/images/ZebrafishBMD.png" alt="ZebrafishBMD" width="129.67" height ="100" />
 
-# ZebrafishBMD: A software program for benchmark dose calculations using toxicity screening data from high-throughput zebrafish assays. 
+# ZebrafishBMD: A software program for benchmark dose calculations using toxicity screening data from high-throughput zebrafish assays 
 
 
 
@@ -8,8 +8,7 @@ The ZebrafishBMD program was written by Dr. Dennis Thomas and
 Dr. Harish Shankaran in collaboration with Dr. Katrina Waters, 
 at the Pacific Northwest National Laboratory. 
 The program was developed as part of projects funded by the National 
-Institutes of Health [P42 ES016465, P30 ES000210] and the 
-Environmental Protection Agency [R835168].
+Institutes of Health and the Environmental Protection Agency.
 
 ## Main Features
 
