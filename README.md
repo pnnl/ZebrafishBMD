@@ -1,4 +1,5 @@
-![ZebrafishBMD] (/images/ZebrafishBMD.png)
+<img src="/images/ZebrafishBMD.png" alt="ZebrafishBMD" width="130" height ="100" />
+
 # ZebrafishBMD: A software program for benchmark dose calculations using toxicity screening data from high-throughput zebrafish assays 
 
 
