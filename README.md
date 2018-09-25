@@ -25,6 +25,7 @@ Matlab Runtime v. 9.1 (Matlab 2016b) for Windows
 ### Downloading and Running ZebrafishBMD
 
 1. Download and unzip the following .zip folder files
+
 ..* `ZebrafishBMD_v1.0.zip`
 ..* `example_data_v1.0.zip`
 
@@ -38,10 +39,11 @@ Matlab Runtime v. 9.1 (Matlab 2016b) for Windows
 	previous step run is completed. 
 
 5. Running the executable will create the following folders to save the run output files:
-..*morphology_response_data
-..*morphology_fit_results
-..*behavior_response_data
-..*behavior_fit_results
+
+..* morphology_response_data
+..* morphology_fit_results
+..* behavior_response_data
+..* behavior_fit_results
 
 ## Citing ZebrafishBMD
 
