@@ -26,8 +26,8 @@ Matlab Runtime v. 9.1 (Matlab 2016b) for Windows
 
 1. Download and unzip the following .zip folder files
 
-* `ZebrafishBMD_v1.0.zip`
-* `example_data_v1.0.zip`
+	* `ZebrafishBMD_v1.0.zip`
+	* `example_data_v1.0.zip`
 
 
 2. Move the `input_data` folder from `example_data_v1.0` into `ZebrafishBMD_v1.0` folder
@@ -38,12 +38,12 @@ Matlab Runtime v. 9.1 (Matlab 2016b) for Windows
 	have to edit these fields. Simple click on the 'Run' button at each step after the 
 	previous step run is completed. 
 
-5. Running the executable will create the following folders to save the run output files:
+5. The program will create the following folders to save the run output files:
 
-  * morphology_response_data
-  * morphology_fit_results
-  * behavior_response_data
-  * behavior_fit_results
+	* morphology_response_data
+	* morphology_fit_results
+	* behavior_response_data
+	* behavior_fit_results
 
 ## Citing ZebrafishBMD
 
@@ -57,7 +57,7 @@ This material was prepared as an account of work sponsored by an agency of the U
 materials, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness or any information, apparatus, product, software, or process disclosed, or represents that its use would not infringe privately owned rights. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or 
 imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof, or Battelle Memorial Institute. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof.
 
-PACIFIC NORTHWEST NATIONAL LABORATORY
+PACIFIC NORTHWEST NATIONAL LABORATORY is 
 operated by
 BATTELLE
 for the
