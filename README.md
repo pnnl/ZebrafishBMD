@@ -1,5 +1,4 @@
-<img src="/images/ZebrafishBMD.png" alt="ZebrafishBMD" width="129.67" height ="100" />
-
+![ZebrafishBMD] (/images/ZebrafishBMD.png)
 # ZebrafishBMD: A software program for benchmark dose calculations using toxicity screening data from high-throughput zebrafish assays 
 
 
@@ -26,8 +25,8 @@ Matlab Runtime v. 9.1 (Matlab 2016b) for Windows
 
 1. Download and unzip the following .zip folder files
 
-..* `ZebrafishBMD_v1.0.zip`
-..* `example_data_v1.0.zip`
+* `ZebrafishBMD_v1.0.zip`
+* `example_data_v1.0.zip`
 
 
 2. Move the `input_data` folder from `example_data_v1.0` into `ZebrafishBMD_v1.0` folder
@@ -35,15 +34,15 @@ Matlab Runtime v. 9.1 (Matlab 2016b) for Windows
 3. Go to `ZebrafishBMD_v1.0` folder on Windows command prompt window
 4. Type `ZebrafishBMD.exe` and press Enter.
 	A user interface window will open. The text fields are pre-filled, so the users don't
-	have to edit these fields. Simple click on the 'run' button at each step after the 
+	have to edit these fields. Simple click on the 'Run' button at each step after the 
 	previous step run is completed. 
 
 5. Running the executable will create the following folders to save the run output files:
 
-..* morphology_response_data
-..* morphology_fit_results
-..* behavior_response_data
-..* behavior_fit_results
+  * morphology_response_data
+  * morphology_fit_results
+  * behavior_response_data
+  * behavior_fit_results
 
 ## Citing ZebrafishBMD
 
