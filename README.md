@@ -3,7 +3,6 @@
 # ZebrafishBMD: A software program for benchmark dose calculations using toxicity screening data from high-throughput zebrafish assays 
 
 
-
 The ZebrafishBMD program was written by Dr. Dennis Thomas and 
 Dr. Harish Shankaran in collaboration with Dr. Katrina Waters, 
 at the Pacific Northwest National Laboratory. 
@@ -17,15 +16,36 @@ The program calculates BMD10 values for
 
 ## Version
 
-The current version [version 1](/release_version_1) is a Windows 
+The current version (ZebrafishBMD v1.0) is a Windows 
 standalone application that was created using Matlab 2016b. 
  
-Software requirements:
+### Software requirements:
 Matlab Runtime v. 9.1 (Matlab 2016b) for Windows
+
+### Downloading and Running ZebrafishBMD
+
+1. Download and unzip the following .zip folder files
+..* `ZebrafishBMD_v1.0.zip`
+..* `example_data_v1.0.zip`
+
+
+2. Move the `input_data` folder from `example_data_v1.0` into `ZebrafishBMD_v1.0` folder
+
+3. Go to `ZebrafishBMD_v1.0` folder on Windows command prompt window
+4. Type `ZebrafishBMD.exe` and press Enter.
+	A user interface window will open. The text fields are pre-filled, so the users don't
+	have to edit these fields. Simple click on the 'run' button at each step after the 
+	previous step run is completed. 
+
+5. Running the executable will create the following folders to save the run output files:
+..*morphology_response_data
+..*morphology_fit_results
+..*behavior_response_data
+..*behavior_fit_results
 
 ## Citing ZebrafishBMD
 
-Please cite this paper
+Please cite
 
 ```
 
