@@ -57,6 +57,10 @@ Matlab Runtime v. 9.1 (Matlab 2016b) for Windows
 Please cite
 
 ```
+Thomas, D. G., Shankaran, H., Truong, L., Tanguay, R. L., & Waters, K. 
+M. (2018). Time-dependent behavioral data from zebrafish reveals novel 
+signatures of chemical toxicity using point of departure analysis. 
+Computational Toxicology. https://doi.org/10.1016/j.comtox.2018.11.001
 
 ```
 ## Disclaimer
