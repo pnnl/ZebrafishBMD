@@ -35,7 +35,7 @@ Matlab Runtime v. 9.1 (Matlab 2016b) for Windows
 
 	The `input_data` folder contains zebrafish developmental and behavioral assay 
 	data for 10 chemicals. Details about the assay and computational approach are 
-	provided in this [paper]().
+	provided in this [paper](https://doi.org/10.1016/j.comtox.2018.11.001).
 	
 3. Go to `ZebrafishBMD_v1.0` folder on Windows command prompt window
 4. Type `ZebrafishBMD.exe` and press Enter.
